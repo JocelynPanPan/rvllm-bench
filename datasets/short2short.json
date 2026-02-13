@@ -1,0 +1,202 @@
+[
+    {
+        "prompt": " Generate a humorous pun using the word \"fruit\". ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Output the fifth number in the Fibonacci sequence. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Can you tell me five animals that lay eggs? ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Edit this sentence to make it more concise: \"The red and yellow flowers were growing in the garden\". ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Classify the following sentence as an interrogative or a declarative sentence.\n\nHow are you doing today? ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Re-write the following sentence to make it more concise:\n\nThe way the breeze scarped across the ocean surface was beautiful. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Summarize the following sentence in three words.\n\nShe was determined to reach her goals despite the odds. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " How many sides does an octagon have? ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Generate a sentence to explain what the product does.\n\nSmart Wifi Switch ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Convert the list of numbers to Fahrenheit.\n\n[-10, 0, 10, 20] ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Change the text style.\n\nThis is an example of bold text. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Rewrite the sentence by changing the verb into its past tense\n\nHe takes the bus to work everyday. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " For a given photo, list a celebrity that it resembles.\n\nhttps://images.unsplash.com/photo-1511918984145-48de785d4c4d ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Edit the following sentence to make it more concise: \"She was extremely skeptical and was not willing to try it out\" ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Edit the following sentence to make it more concise:\n\nAt the beginning of this course there will be an introduction to the relevant curriculum and the materials that will be used during the course. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Classify the following celebrity as either \"actor\" or \"musician\":\n\nTom Cruise ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Add two comma-separated adjectives that describe a sunset.\n\nThe sky was painted in tones of _______ ___. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " List five countries in Europe. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Create a new sentence using the transition word \"otherwise\". ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Edit this sentence to make it more concise: This person was somebody who was very kind to me. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Given a customer review, classify if the review is positive or negative.\n\nThis is by far the worst product I have ever used. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Arrange the words \"rabbit\", \"sleep\", and \"shelf\" into a sentence. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Generate a response to the given query that is appropriate and natural. Output a on sentence response.\n\nWhat is the top selling brand of smartphone? ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Edit the sentence so that it contains the adverb phrase “calmly and confidently\".\n\nShe spoke to the crowd. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Given a fact, come up with a question to which it is the answer.\n\nHumans have only one heart. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Combine the two sentences using the conjunction \"but\".\n\nHe ate breakfast. He didn't brush his teeth. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Find the sum of the numbers in the following array.\n\n[5, 2, 8, 17] ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Classify the following text as in support of or against the statement. You can answer \"Support\" or \"Unsupport\".\n\nStatement: Eating healthy is always expensive\nText: Recent studies have shown that it is possible to eat healthily, with a great variety of foods, all while sticking to a budget. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Convert this sentence from active voice to passive voice: “The team finished the project on time.” ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Sort the following list into ascending order without changing the original values.\n\n23, 71, 28, 9 ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Classify the following input as either \"object\" or \"action\":\n\nCrush ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Describe the topic sentence in no more than 40 words.\n\nThe benefits of having a pet are numerous. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Create an anagram out of the words.\n\nconform ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Given a list of items that needs to be sorted, sort them in ascending order.\n\n6, 3, 9, 5 ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Change the following sentence from the past tense to the present tense.\n\nShe cooked the dinner last night. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Rewrite the following condition using a negated statement.\n\nIf the car is red ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Determine whether the text is written from a first person or third person point of view.\n\nI ran out of the house and down the street as fast as I could. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Change the verb in the sentence to reflect third-person singular\n\nI read the book ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Convert the following time into 12-hour format: 18:45\n\n18:45 ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Use the Oxford comma when rewriting this sentence.\n\nI packed apples oranges and bananas ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Given a sentence, remove any unnecessary filler words and shorten it to 4 words\n\nI like to go for leisurely walks whenever it's nice out ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Rewrite the given statements as rhetorical question.\n\nThis defeats the purpose. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Rewrite the following statement using formal English.\n\nShe ain't got no money. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Re-organize the following list in ascending order.\n\n12, 18, 7, 5, 25 ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Given the following array, how many elements are greater than 2.\n\n[1, 2, 4, 5] ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Reword the following sentence so that it no longer contains any gender-biased language.\n\nThe salesman presented his new product with enthusiasm. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Find the common theme between the following three words: train, plane, and ship. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Classify the given three animals as either a Mammal, Reptile, or Bird.\n\nMonkey, Turtle, Hawk ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Given the following sentence, identify the subject and the verb.\n\nHe is writing a letter. ",
+        "max_tokens": 50
+    },
+    {
+        "prompt": " Edit the following sentence by replacing two words\n\nThe dog happily played in the backyard. ",
+        "max_tokens": 50
+    }
+]
